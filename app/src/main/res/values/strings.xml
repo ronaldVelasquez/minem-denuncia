@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Denuncias</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="google_api_key">AIzaSyB1CiBCnh6MiTnnCshrfytuTjtsPwsIutE</string>
+</resources>
